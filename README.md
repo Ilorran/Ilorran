@@ -39,7 +39,6 @@
   Development tools: <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
-<p align="center"> Feitos </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ilorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U3mura&layout=compact&theme=tokyonight" width="412"></a>
   
