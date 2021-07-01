@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A student developer from Sao Paulo, Brazil.
+  Social media:
 </p>
 
 
@@ -16,24 +16,34 @@
   <a href="https://www.instagram.com/iorran._/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  
+  <a href="https://www.facebook.com/iorran.gabriele/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>&nbsp;&nbsp;  
 </p>
 
 <p align='center'>
   💻 My setup<br/><br/>
-  <img src="https://img.shields.io/badge/OS-Windows%2010-red" />
-  <img src="https://img.shields.io/badge/CPU-Ryzen 5 3400G-red" />
-  <img src="https://img.shields.io/badge/RAM-16-red" />
-  <img src="https://img.shields.io/badge/GPU-GTX%201650-red" />
+  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
 <p align='center'>
-  Contact: <a href='mailto:iorran.gv@hotmail.com'>iorran.gv@hotmail.com</a>
+  Contact: <a href='mailto:iorran.gv@hotmail.com'><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
 </p>
 
 <p align='center'>
-  Deeply focused in: <img src="https://img.shields.io/badge/-Java-red"/>
+  Deeply focused in: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  Development tools: <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
+<p align="center"> Feitos </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ilorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U3mura&layout=compact&theme=tokyonight" width="412"></a>
+  
+  
+
 
 
 <!--
