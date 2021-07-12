@@ -35,8 +35,14 @@
 <p align='center'>
   Deeply focused in: <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <br>
+  <br>
   Development tools: <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+</p>
+<p align='center'>
+  Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <br>
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ilorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U3mura&layout=compact&theme=tokyonight" width="412"></a>
