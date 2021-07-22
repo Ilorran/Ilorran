@@ -44,8 +44,8 @@
   Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <br>
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ilorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=U3mura&layout=compact&theme=tokyonight" width="412"></a>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yIorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yIorran&layout=compact&theme=tokyonight" width="412"></a>
   
   
 
