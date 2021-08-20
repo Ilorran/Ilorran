@@ -40,7 +40,7 @@
   <br>
 </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yIorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yIorran&layout=compact&theme=tokyonight" width="412"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yIorran&layout=compact&theme=gotham" width="412"></a>
   
   
 
