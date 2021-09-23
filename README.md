@@ -22,6 +22,7 @@
 <p align='center'>
   💻 My setup<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/AMD-Ryzen_5_3400G-ED1C24?style=for-the-badge&logo=amd&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
@@ -39,8 +40,19 @@
   Framework: <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <br>
 </p>
+<p align='center'>
+  DBs: <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
+  <br>
+</p>
+<p align='center'>
+  Cloud: <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <br>
+</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yIorran&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yIorran&layout=compact&theme=gotham" width="412"></a>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=yIorran&theme=gotham" width="412"></a>
+  
   
   
 
